@@ -6,6 +6,8 @@
 
 话不多说，直接来看到底能生成怎么样的最skr二维码。
 
+![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
+
 ## 库的安装
 
 Python这个专门生成二维码的库叫MyQR，安装非常简单，直接使用pip安装就可以了。
