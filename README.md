@@ -6,7 +6,7 @@
 
 话不多说，直接来看到底能生成怎么样的最skr二维码。
 
-![image](https://github.com/panacena/mengqu/blob/master/readme/Screenshot_2016-07-10-22-17- 15_zkk.com.mengqu.png)
+![image](https://github.com/chenyeroot/create_qr/blob/master/finished%20product/catfish_4.gif)
 
 ## 库的安装
 
