@@ -4,7 +4,7 @@
 
 介绍一个生成二维码的库，叫MyQr，使用非常简单，只需几行代码就可以生成你要想的二维码。
 
-话不多说，直接来看到底能生成怎么样的最skr二维码。
+话不多说，直接来看到底能生成怎么样的最skr二维码。代码比较简单，希望大家会喜欢。
 
 ![image](https://github.com/chenyeroot/create_qr/blob/master/finished%20product/catfish_4.gif)
 
